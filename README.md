@@ -1,6 +1,6 @@
-Hi, I'm Kaung Si Thu 👋
+# Hi, I'm Kaung Si Thu 👋
 
-Senior Java Backend Engineer | Full-Stack Engineer
+## Senior Java Backend Engineer | Full-Stack Engineer
 
 Java / Full-Stack Engineer with 5+ years of experience building secure and scalable applications.
 
