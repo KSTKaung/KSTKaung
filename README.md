@@ -2,7 +2,7 @@
 
 ## Senior Java Backend Engineer | Full-Stack Engineer
 
-Java / Full-Stack Engineer with 5+ years of experience building secure and scalable applications.
+Java / Full-Stack Engineer with 7+ years of experience building secure and scalable applications.
 
 🛠️ Tech Stack
 
